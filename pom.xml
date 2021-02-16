@@ -30,6 +30,12 @@
 			<artifactId>spring-boot-starter-tomcat</artifactId>
 		</dependency>
 		<!-- End Spring Boot-->
+
+		<dependency>
+			<groupId>org.json</groupId>
+			<artifactId>json</artifactId>
+			<version>20180130</version>
+		</dependency>
 	</dependencies>
 
 	<build>
