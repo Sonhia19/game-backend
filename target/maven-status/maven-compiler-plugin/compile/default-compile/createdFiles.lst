@@ -1,0 +1,14 @@
+exceptions\LogicException.class
+valueObjects\VOGame.class
+exceptions\PersistenceException.class
+logic\models\Game.class
+persistence\connection\PoolConexiones.class
+server\WebSocket.class
+exceptions\ServerException.class
+persistence\connection\Connection.class
+logic\models\Player.class
+persistence\connection\IConexion.class
+valueObjects\VOPlayer.class
+persistence\connection\IPoolConexiones.class
+logic\facade\Facade.class
+logic\facade\IFacade.class

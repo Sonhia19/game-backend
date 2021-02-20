@@ -1,0 +1,14 @@
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\valueObjects\VOPlayer.java
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\persistence\connection\IConexion.java
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\persistence\connection\PoolConexiones.java
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\logic\models\Game.java
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\logic\facade\IFacade.java
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\valueObjects\VOGame.java
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\exceptions\LogicException.java
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\logic\models\Player.java
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\exceptions\PersistenceException.java
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\persistence\connection\IPoolConexiones.java
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\server\WebSocket.java
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\exceptions\ServerException.java
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\persistence\connection\Connection.java
+C:\Users\sperez\Documents\UDE\game-backend\src\main\java\logic\facade\Facade.java
